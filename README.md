@@ -12,19 +12,13 @@ The certificates are organized into folders based on the issuing platform or org
 - **AWS**
 - **C# Corner**
 - **Cisco Networking Academy**
-- **Coursera**
 - **Forage**
 - **Google**
 - **Great Learning Academy**
 - **IBM SkillBuild**
 - **Infosys Springboard**
-- **Internship Certificates**
 - **Kaggle**
-- **Microsoft Learn**
-- **Udemy**
-- **YouTube Learning Platforms**
-- **Workshops / Events**
-- **Other Recognitions**
+
 
 > 📌 Each folder contains certificates in image or PDF format for transparency and record-keeping.
 
@@ -57,10 +51,14 @@ Across platforms, these certificates represent learning in domains like:
 | Platform | No. of Certificates | Status |
 |---------|----------------------|--------|
 | AWS | ✔︎ | Updated |
+| C# Corner | ✔︎ | Updated |
 | Cisco Networking Academy | ✔︎ | Updated |
-| Google / Coursera | ✔︎ | Updated |
+| Forage | ✔︎ | Updated |
+| Google | Updated |
+| Great Learning Academy | ✔︎ | Updated |
+| IBM Skillsbuild | ✔︎ | Updated |
+| Infosys Springboard | ✔︎ | Updated |
 | Kaggle | ✔︎ | Updated |
-| Udemy | ✔︎ | Updated |
 | Others | 🔄 | Uploading continues |
 
 > This table will update as more certificates are added.
