@@ -54,7 +54,7 @@ Across platforms, these certificates represent learning in domains like:
 | C# Corner | ✔︎ | Updated |
 | Cisco Networking Academy | ✔︎ | Updated |
 | Forage | ✔︎ | Updated |
-| Google | Updated |
+| Google | ✔︎ | Updated |
 | Great Learning Academy | ✔︎ | Updated |
 | IBM Skillsbuild | ✔︎ | Updated |
 | Infosys Springboard | ✔︎ | Updated |
