@@ -80,8 +80,8 @@ Personal sensitive information (address, ID numbers, signatures) has been **remo
 
 If you're reviewing this repository as a recruiter or collaborator and wish to verify any certificate, feel free to connect:
 
-📧 Email: **nikitapatra2107@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/nikita-patra/**
+📧 Email: **patranikita236@gmail.com**  
+🔗 LinkedIn: **www.linkedin.com/in/nikita-patra-13a67a220**
 
 ---
 
